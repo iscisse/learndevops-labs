@@ -11,3 +11,4 @@ To run your script :
 Another option is as follows to execute shell script:
 sh script-name-here.sh
 ORbash script-name-here.sh
+sudo chmod u+x installDocker.sh
